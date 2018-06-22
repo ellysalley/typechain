@@ -1,1 +1,3 @@
-For practice TypeScript with basic blockchain
+## Typechain
+
+Learning TypeScript by making a Blockchain with it
