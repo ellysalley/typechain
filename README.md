@@ -1,0 +1,1 @@
+For practice TypeScript with basic blockchain
